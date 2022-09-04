@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Web development**
 
-- 🌱 I’m currently learning **Dsa,web developement, javascript, php**
+- 🌱 I’m currently learning **Dsa, Web developement, Javascript, php**
 
 - 👯 I’m looking to collaborate on **ineuron**
 
