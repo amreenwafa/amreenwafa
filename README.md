@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **wafaamreen6@gmail.com**
 
-- ⚡ Fun fact **I Set myself free**
+- ⚡ Fun fact **I Set Myself free**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
