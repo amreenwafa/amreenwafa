@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/62280849/128853969-84ff61d3-28c0-418d-9946-341ea61c7dce.gif)
-<h1 align="center">Hi 🖐, I'm Amreen wafa</h1>
+<h1 align="center">Hi🖐️, I'm Amreen wafa</h1>
 <h3 align="center">I'am experimenting with new languages</h3>
 <image align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
