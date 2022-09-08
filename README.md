@@ -10,7 +10,7 @@
 
 - 📝 I’m currently learning **Dsa, Web Developement, Javascript, php**
 
-- 👯 I’m looking to collaborate on **ineuron**
+- 👥 I’m looking to collaborate on **ineuron**
 
 - 💬 Ask me about **Dsa**
 
