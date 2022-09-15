@@ -1,5 +1,5 @@
 ![MasterHead](https://www.sogeti.com/globalassets/global/content-images/explore/blog/2020-predictions/00086---vr---blue---v0.1.gif)
-<h1 align="center">Hii <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px">, This is Amreen</h1>
+<h1 align="center">Hii <img src="https://raw.githubusercontent.com/thepranaygupta/thepranaygupta/main/src/wave.gif" width="30px" height="30px"> This is Amreen</h1>
 <h3 align="center">I'am experimenting with new languages</h3>
 <image align="right" alt="Coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 
