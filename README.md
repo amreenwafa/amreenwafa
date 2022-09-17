@@ -35,3 +35,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amreenwafa&show_icons=true&locale=en" alt="amreenwafa" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amreenwafa&" alt="amreenwafa" /></p>
+
+## Snake eating my contribution
+
+![snake gif](https://github.com/Bimlendu-Singh/Bimlendu-Singh/blob/output/github-contribution-grid-snake.gif)
