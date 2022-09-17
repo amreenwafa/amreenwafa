@@ -36,6 +36,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amreenwafa&" alt="amreenwafa" /></p>
 
-## Snake eating my contribution
 
-![snake gif](https://github.com/Bimlendu-Singh/Bimlendu-Singh/blob/output/github-contribution-grid-snake.gif)
