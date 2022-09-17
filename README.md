@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amreenwafa&label=Profile%20views&color=0e75b6&style=flat" alt="amreenwafa" /> </p>
 
+<h2><img src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true" width="70"><b>About me</b></h2>
+
 
 - 🎗 I’m currently working on **Web Development**
 
