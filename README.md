@@ -39,6 +39,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amreenwafa&" alt="amreenwafa" /></p>
 
+## contribution graph
+<a href="https://github.com/amreenwafa/github-readme-activity-graph"><img alt="amreenwafa Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amreenwafa&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 ## snake eating contribution
 ![snake gif](https://github.com/amreenwafa/amreenwafa/blob/output/github-contribution-grid-snake.gif)
 
