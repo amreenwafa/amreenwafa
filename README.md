@@ -39,4 +39,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amreenwafa&" alt="amreenwafa" /></p>
 
+## snake eating contribution
+![snake gif](https://github.com/amreenwafa/amreenwafa/blob/output/github-contribution-grid-snake.gif)
 
