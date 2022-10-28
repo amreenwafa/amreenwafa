@@ -1,5 +1,3 @@
-![MasterHead](https://www.sogeti.com/globalassets/global/content-images/explore/blog/2020-predictions/00086---vr---blue---v0.1.gif)
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=amreenwafa.amreenwafa">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
