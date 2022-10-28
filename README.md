@@ -43,5 +43,5 @@
 <a href="https://github.com/amreenwafa/github-readme-activity-graph"><img alt="amreenwafa Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amreenwafa&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## snake eating contribution
-![snake gif](https://github.com/amreenwafa/amreenwafa/blob/output/github-contribution-grid-snake.gif)
+<img alt="snake eating my contribution" src="https://github.com/amreenwafa/amreenwafa/blob/output/github-contribution-grid-snake.svg">
 
