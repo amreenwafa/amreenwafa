@@ -61,6 +61,6 @@
 
 
 
-## snake eating contribution
+## Snake Eating Contribution
 <img alt="snake eating my contribution" src="https://github.com/amreenwafa/amreenwafa/blob/output/github-contribution-grid-snake.svg">
 
