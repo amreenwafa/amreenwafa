@@ -1,7 +1,7 @@
 ![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Me+Amreen!;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Me+Amreen;&center=true&size=30">
   </a>
 </h1>
 <h3 align="center">I'am experimenting with new languages</h3>
