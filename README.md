@@ -12,13 +12,13 @@
 <h2><img src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true" width="70"><b>About me</b></h2>
 
 
-- 🎗 I’m currently working on **Web Development**
+- 🎗 I’m currently working on **Data Analysis**
 
-- 📝 I’m currently learning **Dsa, Web Developement, Javascript, php**
+- 📝 I’m currently learning **Python, SQL, Excel, Power BI, Tableau, AWS & Generative AI**
 
 - 👥 I’m looking to collaborate on **ineuron**
 
-- 💬 Ask me about **Dsa**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **wafaamreen6@gmail.com**
 
